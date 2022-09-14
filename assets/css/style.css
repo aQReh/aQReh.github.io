@@ -9401,7 +9401,7 @@ figcaption {
     .slide.slider-style-3 {
       padding-bottom: 60px; } }
   .slide.slider-style-3 .slider-wrapper {
-    padding-top: 20px;
+    padding-top: 80px;
     display: flex;
     justify-content: space-between; }
     @media only screen and (max-width: 1199px) {
