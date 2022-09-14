@@ -9401,12 +9401,12 @@ figcaption {
     .slide.slider-style-3 {
       padding-bottom: 60px; } }
   .slide.slider-style-3 .slider-wrapper {
-    padding-top: 80px;
+    padding-top: 20px;
     display: flex;
     justify-content: space-between; }
     @media only screen and (max-width: 1199px) {
       .slide.slider-style-3 .slider-wrapper {
-        padding-top: 126px;
+       
         padding-bottom: 45px; } }
     @media only screen and (min-width: 768px) and (max-width: 991px) {
       .slide.slider-style-3 .slider-wrapper {
@@ -9414,7 +9414,7 @@ figcaption {
         padding-bottom: 0; } }
     @media only screen and (max-width: 479px) {
       .slide.slider-style-3 .slider-wrapper {
-        padding-top: 126px;
+     
         padding-bottom: 16px; } }
     .slide.slider-style-3 .slider-wrapper .slider-info {
       top: 250px;
